@@ -8,8 +8,7 @@ In this paper, we present a real-time algorithm for computing the optimal sequen
 !["Algorithmic Pipeline"](./Pipeline.jpg)
 
 
-### **python examples**: 
-* **Sequence_Compare,ipynb** (implemention of  DeLaN n/w infrence to get optimal  rearrangement Sequence)
+### **python examples**:
 * **DeLaN_IK.ipynb** (implementation of DeLaN metric-Ik planner)
 
 ## C++ implementation :
