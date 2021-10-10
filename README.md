@@ -14,7 +14,7 @@ In this paper, we present a real-time algorithm for computing the optimal sequen
 ## C++ implementation :
 C++ implementation of our proposed DeLaN Metric-IK is given in c_folder directory
 
-## ofline setup :
+## offline setup :
 * create A conda environment from environment_complete.yml file
 
     conda env create -f environment_complete.yml
