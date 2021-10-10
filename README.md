@@ -10,6 +10,11 @@ In this paper, we present a real-time algorithm for computing the optimal sequen
 
 ### **python examples**:
 * **DeLaN_IK.ipynb** (implementation of DeLaN metric-Ik planner)
-
+* **Sequence_compare.ipynb** (implemention of  DeLaN n/w infrence to get optimal  rearrangement Sequence)
 ## C++ implementation :
 C++ implementation of our proposed DeLaN Metric-IK is given in c_folder directory
+
+## ofline setup :
+* create A conda environment from environment_complete.yml file
+
+    conda env create -f environment_complete.yml
